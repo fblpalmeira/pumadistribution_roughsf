@@ -4,6 +4,6 @@ Distribuiton of Puma: a widely distributed felid in the world. Data from [IUCN R
  
 - [Script `.R`](https://github.com/fblpalmeira/murders_interactivemap/blob/main/data/murders_interctivemap.R)
 
-<img src="https://github.com/fblpalmeira/murders_interactivemap/blob/main/data/murders_interctivemap.png"/>
+<https://github.com/fblpalmeira/pumadistribution_roughsf/blob/main/data/puma2.png>
 
 ## References
