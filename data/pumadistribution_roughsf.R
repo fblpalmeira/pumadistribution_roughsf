@@ -5,7 +5,7 @@ mundi$fill <- ""
 mundi$stroke <- 2
 mundi$fillweight <- 0.5
 
-puma <- st_read("p.concolor/puma.shp")
+puma <- st_read("https://github.com/fblpalmeira/pumadistribution_roughsf/blob/main/data/p.concolor/puma.shp")
 puma <- st_cast(puma, "POLYGON")
 puma$fill <- "#E69F00"
 puma$stroke <- 1
